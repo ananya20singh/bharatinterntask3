@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "netflix_clone",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netflix_clone"
+	}
+}
